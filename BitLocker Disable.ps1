@@ -1,3 +1,5 @@
+$Version = "1"
+$LastUpdated = "4/2/2025"
 Write-host "Disabling Bitlocker"
 Disable-BitLocker -MountPoint "Z:"
 
